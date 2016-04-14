@@ -3,5 +3,5 @@ This repository includes all details to build your own 360 degree spherical came
 Details include:
 * BOM
 * Drawings
-*Instructions
-*Pricing
+* Instructions
+* Pricing
