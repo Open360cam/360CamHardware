@@ -1,4 +1,6 @@
 # The Open 360 Camera Hardware Repository 
+
+[![Join the chat at https://gitter.im/Open360cam/360CamHardware](https://badges.gitter.im/Open360cam/360CamHardware.svg)](https://gitter.im/Open360cam/360CamHardware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This repository includes all details to build your own 360 degree spherical camera. 
 
 * [Costed bill of materirals](https://docs.google.com/spreadsheets/d/1DjrssXFpiNprQZbmdWP-jzERTFS624AXDK49ZiT67Ic/edit?usp=sharing)
