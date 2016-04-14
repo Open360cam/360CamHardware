@@ -1,6 +1,6 @@
 # The Open 360 Camera Hardware Repository 
 This repository includes all details to build your own 360 degree spherical camera. 
-Details include:
+
 * [Bill of materirals](https://docs.google.com/spreadsheets/d/1DjrssXFpiNprQZbmdWP-jzERTFS624AXDK49ZiT67Ic/edit?usp=sharing)
 * [Delrin mount dimensions]( https://docs.google.com/drawings/d/1a1yqljNkfvwshJXSAQb4WQnTHRU0a6AmI5eeKOmlvyI/edit?usp=sharing)
 * Instructions
