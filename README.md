@@ -13,5 +13,5 @@ Camera Specifications:
 * Image sensor [OnSemi MI5100/MT9P10001](http://www.onsemi.com/pub_link/Collateral/MT9P001-D.PDF)
 * Frame rate 15 fps full5 MP, 30 fps 1920x1080 Hd
 
-
+![Early prototype](http://i.imgur.com/HCc8tF9.jpg)
 
