@@ -3,6 +3,8 @@
 
 This repository includes all details to build your own 360 degree spherical camera. Our design goals were to develop a DIY kit to build your own basic full 360 degree spherical camera. The hardware chosen for the kit is readily available off the shelf from the vendors listed below. The mechanical mounting components have been kept simple enough to assemble without any specialized tools or equipment. Cost has been minimized and balanced against providing reasonably good performance.  
 
+To enable portable imaging, we have developed and tested the cameras on a Raspberry Pi 2 B+ utilizing OpenCV libraries to control and capture images from the cameras. The USB 2.0 cameras from ELP that we selected us the [Sonix SN9C292A](http://www.sonix.com.tw/article-en-995-7860) video controller with USB Video Class compatibility. 
+
 Camera Specifications Full 360 Version:
 
 * FOV 220 degrees per camera (Full image circle fits within image sensor frame)
