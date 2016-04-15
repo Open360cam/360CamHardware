@@ -3,7 +3,7 @@
 
 This repository includes all details to build your own 360 degree spherical camera. 
 
-* [Costed BOM](360CamHardware/BOMV0.03.csv) 
+* [Costed BOM](/360CamHardware/BOMV0.03.csv) 
 
 * [Delrin mount dimensions]( https://docs.google.com/drawings/d/1a1yqljNkfvwshJXSAQb4WQnTHRU0a6AmI5eeKOmlvyI/edit?usp=sharing)
 * Instructions
