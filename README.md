@@ -22,8 +22,8 @@ Partial 360 Version Specifications:
 
 Links and information:
 
-* [Full 360 spherical costed BOM V 0.3](https://github.com/Open360cam/360CamHardware/blob/gh-pages/BOMV0.03.csv) 
-* [Partial 360 spherical costed BOM V 0.3](https://github.com/Open360cam/360CamHardware/blob/gh-pages/BOMV0.03.csv) 
+* [Full 360 spherical costed BOM V 0.3](https://github.com/Open360cam/360CamHardware/blob/gh-pages/Full%20360%20BOMV0.03.csv)
+* [Partial 360 spherical costed BOM V 0.3](https://github.com/Open360cam/360CamHardware/blob/gh-pages/Partial%20360%20BOMV0.03.csv) 
 * [Delrin mount dimensions]( https://docs.google.com/drawings/d/1a1yqljNkfvwshJXSAQb4WQnTHRU0a6AmI5eeKOmlvyI/edit?usp=sharing)
 * Instructions
 
