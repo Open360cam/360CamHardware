@@ -26,7 +26,7 @@ Links and information:
 
 * [Full 360 spherical costed BOM V 0.3](https://github.com/Open360cam/360CamHardware/blob/gh-pages/Full%20360%20BOMV0.03.csv)
 * [Partial 360 spherical costed BOM V 0.3](https://github.com/Open360cam/360CamHardware/blob/gh-pages/Partial%20360%20BOM%20V0.3.csv) 
-* [Delrin mount dimensions]( https://docs.google.com/drawings/d/1a1yqljNkfvwshJXSAQb4WQnTHRU0a6AmI5eeKOmlvyI/edit?usp=sharing)
+* [Mount hole patern](https://github.com/Open360cam/360CamHardware/blob/gh-pages/BaseMountRev1.dxf)
 * Instructions
 
 Version 0.03 prototype
