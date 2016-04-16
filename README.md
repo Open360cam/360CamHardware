@@ -5,7 +5,7 @@ This repository includes all details to build your own 360 degree spherical came
 
 To enable portable imaging, we have developed and tested the cameras on a Raspberry Pi 2 B+ utilizing OpenCV libraries to control and capture images from the cameras. The USB 2.0 cameras from ELP that we selected us the [Sonix SN9C292A](http://www.sonix.com.tw/article-en-995-7860) video controller with USB Video Class compatibility. 
 
-**If there is enough interest in this project, we will consider organizing a bulk buy of the kick components to save on shipping costs Please log your interst on the Gitter chat.**
+**If there is enough interest in this project, we will consider organizing a bulk buy of the kit parts to save on shipping costs Please log your interst on the Gitter chat.**
 
 Camera Specifications Full 360 Version:
 
