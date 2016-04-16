@@ -29,5 +29,6 @@ Links and information:
 * [Delrin mount dimensions]( https://docs.google.com/drawings/d/1a1yqljNkfvwshJXSAQb4WQnTHRU0a6AmI5eeKOmlvyI/edit?usp=sharing)
 * Instructions
 
+Version 0.03 prototype
 ![V0.3](http://i.imgur.com/UVtXb0t.jpg?1)
 
