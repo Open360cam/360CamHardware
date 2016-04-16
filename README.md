@@ -22,11 +22,11 @@ Partial 360 Version Specifications:
 * Frame rate 15 fps full5 MP, 30 fps 1920x1080 Hd
 
 
-Links and information:
+Repository files:
 
-* [Full 360 spherical costed BOM V 0.3](https://github.com/Open360cam/360CamHardware/blob/gh-pages/Full%20360%20BOMV0.03.csv)
-* [Partial 360 spherical costed BOM V 0.3](https://github.com/Open360cam/360CamHardware/blob/gh-pages/Partial%20360%20BOM%20V0.3.csv) 
-* [Mount hole patern](https://github.com/Open360cam/360CamHardware/blob/gh-pages/BaseMountRev1.dxf)
+* Full 360 spherical BOM [Full 360 BOM V0.3.csv](https://github.com/Open360cam/360CamHardware/blob/gh-pages/Full%20360%20BOMV0.03.csv)
+* Partial 360 spherical BOM [Partial 360 BOM V0.3.csv](https://github.com/Open360cam/360CamHardware/blob/gh-pages/Partial%20360%20BOM%20V0.3.csv) 
+* Mount hole patern: [BaseMountRev1.dxf](https://github.com/Open360cam/360CamHardware/blob/gh-pages/BaseMountRev1.dxf)
 * Instructions
 
 Version 0.03 prototype
