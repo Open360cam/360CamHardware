@@ -29,6 +29,6 @@ Repository files:
 * Mount hole patern: [BaseMountRev1.dxf](https://github.com/Open360cam/360CamHardware/blob/gh-pages/BaseMountRev1.dxf)
 * Instructions
 
-Version 0.02 prototype
+Version 0.02 prototype (Wood base mount vs laser cut delrin in 0.03)
 ![V0.3](http://i.imgur.com/UVtXb0t.jpg?1)
 
