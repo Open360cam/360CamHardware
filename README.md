@@ -15,7 +15,7 @@ Camera Specifications Full 360 Version:
 * Image sensor [OnSemi MI5100/MT9P10001](http://www.onsemi.com/pub_link/Collateral/MT9P001-D.PDF)
 * Frame rate 15 fps full5 MP, 30 fps 1920x1080 Hd
 
-Nearly 360 Version Specifications:
+_Nearly_ 360 Version Specifications:
 
 * FOV 180 deg Horizontal X 150 deg Vertical per camera (Stock lens shipped with ELP-USB500W05G-L180)
 * Resolution 2 x 5MP
@@ -30,6 +30,6 @@ Repository files:
 * Mount hole patern: [BaseMountRev1.dxf](https://github.com/Open360cam/360CamHardware/blob/gh-pages/BaseMountRev1.dxf)
 * Instructions
 
-Version 0.02 prototype (Wood base mount vs laser cut delrin in 0.03)
+Version 0.02 prototype (Wood base mount vs laser cut delrin in V0.03)
 ![V0.3](http://i.imgur.com/UVtXb0t.jpg?1)
 
