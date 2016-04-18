@@ -15,6 +15,8 @@ Camera Specifications Full 360 Version:
 * Image sensor [OnSemi MI5100/MT9P10001](http://www.onsemi.com/pub_link/Collateral/MT9P001-D.PDF)
 * Frame rate 15 fps full5 MP, 30 fps 1920x1080 Hd
 
+![](https://docs.google.com/drawings/d/1qfG-w03bYuRvKSpJNDEqPN0JQ_ewQdfzTyqCp624rVs/pub?w=960&h=720)
+
 _Nearly_ 360 Version Specifications:
 
 * FOV 180 deg Horizontal X 150 deg Vertical per camera (Stock lens shipped with ELP-USB500W05G-L180)
