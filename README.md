@@ -1,6 +1,9 @@
 # The Open 360 Camera Hardware Repository 
 [![Gitter](https://badges.gitter.im/Open360cam/360CamHardware.svg)](https://gitter.im/Open360cam/360CamHardware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+Version 0.02 prototype 
+![](http://i.imgur.com/UVtXb0tm.jpg?1)
+
 This repository includes all details to build your own 360 degree spherical camera. Our design goals were to develop a DIY kit to build your own basic full 360 degree spherical camera. The hardware chosen for the kit is readily available off the shelf from the vendors listed below. The mechanical mounting components have been kept simple enough to assemble without any specialized tools or equipment. Cost has been minimized and balanced against providing reasonably good performance. This is a 2 camera fisheye design.  
 
 To enable portable imaging, we have developed and tested the cameras on a Raspberry Pi 2 B+ utilizing OpenCV libraries to control and capture images from the cameras. The USB 2.0 cameras from ELP that we selected us the [Sonix SN9C292A](http://www.sonix.com.tw/article-en-995-7860) video controller with USB Video Class compatibility. 
@@ -36,7 +39,5 @@ Repository files:
 * Mount hole patern: [BaseMountRev1.dxf](https://github.com/Open360cam/360CamHardware/blob/gh-pages/BaseMountRev1.dxf)
 * Instructions
 
-Version 0.02 prototype (Wood base mount vs laser cut delrin in V0.03)
 
-![V0.3](http://i.imgur.com/UVtXb0tm.jpg?1)
 
