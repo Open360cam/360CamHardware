@@ -18,12 +18,15 @@ Camera Specifications Full 360 Version:
 ![](https://docs.google.com/drawings/d/1qfG-w03bYuRvKSpJNDEqPN0JQ_ewQdfzTyqCp624rVs/pub?w=480&h=360)
 
 _Nearly_ 360 Version Specifications:
+This option is included since you can purchase the 5MP sensor with a 180degree stock lens option for just a little more than a basic stock lens. 
 
 * FOV 180 deg Horizontal X 150 deg Vertical per camera (Stock lens shipped with ELP-USB500W05G-L180)
 * Resolution 2 x 5MP
 * Board spacing 15mm
 * Image sensor [OnSemi MI5100/MT9P10001](http://www.onsemi.com/pub_link/Collateral/MT9P001-D.PDF)
 * Frame rate 15 fps full5 MP, 30 fps 1920x1080 Hd
+
+![](https://docs.google.com/drawings/d/1Y7bsweQgcvMa-xUnCi001ipqLVIXz2fOsW-fbs8W32I/pub?w=480&h=360)
 
 Repository files:
 
