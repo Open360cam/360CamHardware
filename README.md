@@ -3,7 +3,7 @@
 
 Version 0.02 prototype 
 
-![](http://i.imgur.com/UVtXb0tm.jpg?1)
+![](http://i.imgur.com/UVtXb0tm.jpg?1) ![](http://i.imgur.com/9lv8rzXm.jpg)
 
 This repository includes all details to build your own 360 degree spherical camera. Our design goals were to develop a DIY kit to build your own basic full 360 degree spherical camera. The hardware chosen for the kit is readily available off the shelf from the vendors listed below. The mechanical mounting components have been kept simple enough to assemble without any specialized tools or equipment. Cost has been minimized and balanced against providing reasonably good performance. This is a 2 camera fisheye design.  
 
