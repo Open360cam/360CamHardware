@@ -9,20 +9,19 @@ To enable portable imaging, we have developed and tested the cameras on a Raspbe
 
 Camera Specifications Full 360 Version:
 
-* FOV 220 degrees per camera (Full image circle fits within image sensor frame)
+* FOV 220 degrees per camera (Verified through optical measurements that between 206 and 212 degrees fits within full active arrea 1452 pixels)
 * Resolution 2 x 5MP
 * Board spacing 15mm
 * Image sensor [OnSemi MI5100/MT9P10001](http://www.onsemi.com/pub_link/Collateral/MT9P001-D.PDF)
 * Frame rate 15 fps full5 MP, 30 fps 1920x1080 Hd
 
-Partial 360 Version Specifications:
+Nearly 360 Version Specifications:
 
-* FOV 220 deg Horizontal, ~170 deg Vertical per camera
-* Resolution 2 x5MP
+* FOV 180 deg Horizontal X 150 deg Vertical per camera (Stock lens shipped with ELP-USB500W05G-L180)
+* Resolution 2 x 5MP
 * Board spacing 15mm
 * Image sensor [OnSemi MI5100/MT9P10001](http://www.onsemi.com/pub_link/Collateral/MT9P001-D.PDF)
 * Frame rate 15 fps full5 MP, 30 fps 1920x1080 Hd
-
 
 Repository files:
 
