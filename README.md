@@ -37,5 +37,6 @@ Repository files:
 * Instructions
 
 Version 0.02 prototype (Wood base mount vs laser cut delrin in V0.03)
+
 ![V0.3](http://i.imgur.com/UVtXb0tm.jpg?1)
 
