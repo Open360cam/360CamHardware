@@ -31,7 +31,7 @@ This option is included since you can purchase the 5MP sensor with a 180degree s
 
 Repository files:
 
-* Full 360 spherical BOM [Full 360 BOM V0.3.csv](https://github.com/Open360cam/360CamHardware/blob/gh-pages/Full%20360%20BOMV0.03.csv)
+* Full 360 spherical BOM [Full 360 BOM V0.3.csv](https://github.com/Open360cam/360CamHardware/blob/gh-pages/Full%20360%20BOM%20V0.3.csv)
 * Partial 360 spherical BOM [Partial 360 BOM V0.3.csv](https://github.com/Open360cam/360CamHardware/blob/gh-pages/Partial%20360%20BOM%20V0.3.csv) 
 * Mount hole patern: [BaseMountRev1.dxf](https://github.com/Open360cam/360CamHardware/blob/gh-pages/BaseMountRev1.dxf)
 * Instructions
