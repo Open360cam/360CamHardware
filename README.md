@@ -18,6 +18,7 @@ Camera Specifications Full 360 Version:
 ![](https://docs.google.com/drawings/d/1qfG-w03bYuRvKSpJNDEqPN0JQ_ewQdfzTyqCp624rVs/pub?w=480&h=360)
 
 _Nearly_ 360 Version Specifications:
+
 This option is included since you can purchase the 5MP sensor with a 180degree stock lens option for just a little more than a basic stock lens. 
 
 * FOV 180 deg Horizontal X 150 deg Vertical per camera (Stock lens shipped with ELP-USB500W05G-L180)
