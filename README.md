@@ -31,9 +31,9 @@ Camera Specifications Full 360 Version:
 
 _Nearly_ 360 Version Specifications:
 
-This option is included since you can purchase the 5MP sensor with a 180degree stock lens option for just a little more than a basic stock lens. To actually build a full 360 camera you would likely need 3-4 of these
+This option is included since you can purchase the 5MP sensor with a 180degree stock lens option for just a little more than a basic stock lens. Because the image quality is low at the edge of the image, you would likely need 3-4 of these to achieve usable images.
 
-* FOV 180 deg Horizontal X 150 deg Vertical per camera (1.56mm Stock lens shipped with ELP-USB500W05G-L180)
+* FOV 185 deg Horizontal X 154 deg Vertical per camera (1.56mm Stock lens shipped with ELP-USB500W05G-L180)
 * Resolution 2 x 5MP
 * Board spacing 15mm
 * Image sensor [OnSemi MI5100/MT9P10001](http://www.onsemi.com/pub_link/Collateral/MT9P001-D.PDF)
