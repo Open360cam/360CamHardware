@@ -5,7 +5,7 @@ Version 0.02 prototype
 
 ![](http://i.imgur.com/UVtXb0tm.jpg?1) ![](http://i.imgur.com/9lv8rzXm.jpg)
 
-This repository includes all details to build your own 360 degree spherical camera. The goal of this project is to develop a kit to for a "build it your self" 360 degree spherical camera. 
+This repository includes all the details to build your own 360 degree spherical camera. The goal of this project is to develop a kit to for a "build it your self" 360 degree spherical camera. 
 
 Our key principals are as follows:
 * Open source hardware and software to encourage educational use and a developer community
