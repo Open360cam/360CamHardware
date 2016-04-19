@@ -1,7 +1,7 @@
 # The Open 360 Camera Hardware Repository 
 [![Gitter](https://badges.gitter.im/Open360cam/360CamHardware.svg)](https://gitter.im/Open360cam/360CamHardware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Version 0.02 prototype 
+Version 0.2 prototype 
 
 ![](http://i.imgur.com/UVtXb0tm.jpg?1) ![](http://i.imgur.com/9lv8rzXm.jpg)
 
