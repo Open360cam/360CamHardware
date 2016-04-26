@@ -1,10 +1,16 @@
 # The Open 360 Camera Hardware Repository 
 [![Gitter](https://badges.gitter.im/Open360cam/360CamHardware.svg)](https://gitter.im/Open360cam/360CamHardware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+***
+
 Version 0.2 prototype 
 
-![](http://i.imgur.com/UVtXb0tm.jpg?1) ![](http://i.imgur.com/9lv8rzXm.jpg)
+![](http://i.imgur.com/UVtXb0tm.jpg?1) ![](http://i.imgur.com/9lv8rzXm.jpg)![](http://i.imgur.com/TNTswUMl.jpg)
 
+More details on image capture in the [wiki](https://github.com/Open360cam/360CamHardware/wiki/Field-Testing) and the [360CamCode Repository](https://github.com/Open360cam/360CamCode)
+
+***
+## About
 This repository includes all the details to build your own 360 degree spherical camera. The goal of this project is to develop a kit to for a "build it your self" 360 degree spherical camera. 
 
 Our key principals are as follows:
