@@ -7,8 +7,10 @@
 
 Version 0.2 prototype 
 
+![](http://i.imgur.com/UVtXb0tm.jpg?1) ![](http://i.imgur.com/9lv8rzXm.jpg)
+
 [View on Google Stree View](https://www.google.com/maps/@43.8062169,-70.2512689,3a,90y,332.7h,82.47t/data=!3m7!1e1!3m5!1s-5MO35BMW5HE%2FVyUo9E1VHvI%2FAAAAAAAAHNw%2FE2HV6cnC8mYH1FQPFqYaJbeJtALE0PSlgCLIB!2e4!3e12!7i2172!8i1086)
-![](http://i.imgur.com/UVtXb0tm.jpg?1) ![](http://i.imgur.com/9lv8rzXm.jpg)![](http://i.imgur.com/TNTswUMl.jpg)
+![](http://i.imgur.com/TNTswUMl.jpg)
 
 
 
