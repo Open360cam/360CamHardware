@@ -7,9 +7,10 @@
 
 Version 0.2 prototype 
 
+[View on Google Stree View](https://www.google.com/maps/@43.8062169,-70.2512689,3a,90y,332.7h,82.47t/data=!3m7!1e1!3m5!1s-5MO35BMW5HE%2FVyUo9E1VHvI%2FAAAAAAAAHNw%2FE2HV6cnC8mYH1FQPFqYaJbeJtALE0PSlgCLIB!2e4!3e12!7i2172!8i1086)
 ![](http://i.imgur.com/UVtXb0tm.jpg?1) ![](http://i.imgur.com/9lv8rzXm.jpg)![](http://i.imgur.com/TNTswUMl.jpg)
 
-[View on Google Stree View](https://www.google.com/maps/@43.8062169,-70.2512689,3a,90y,332.7h,82.47t/data=!3m7!1e1!3m5!1s-5MO35BMW5HE%2FVyUo9E1VHvI%2FAAAAAAAAHNw%2FE2HV6cnC8mYH1FQPFqYaJbeJtALE0PSlgCLIB!2e4!3e12!7i2172!8i1086)
+
 
 More details on image capture in the [wiki](https://github.com/Open360cam/360CamHardware/wiki/Field-Testing) and the [360CamCode Repository](https://github.com/Open360cam/360CamCode)
 
