@@ -1,6 +1,8 @@
 # The Open 360 Camera Hardware Repository 
 [![Gitter](https://badges.gitter.im/Open360cam/360CamHardware.svg)](https://gitter.im/Open360cam/360CamHardware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+[On hackaday.io](https://hackaday.io/project/11604-360-camera)
+
 ***
 
 Version 0.2 prototype 
@@ -13,6 +15,10 @@ More details on image capture in the [wiki](https://github.com/Open360cam/360Cam
 
 ***
 ## About
+The entrance of consumer grade and professional 360 spherical cameras to the market will change the way people capture and interact with digital images and video.  While cameras like the Ricoh Theta, Samsung Gear 360 and Facebook Surround 360 cameras will meet consumer and professional needs, no platform is available to the maker, hacker, or educator.  
+
+This goal of this project is to develop a hardware kit that is open, hackable, adaptable, and extensible to open this incredible technology to everyone.  
+
 This repository includes all the details to build your own 360 degree spherical camera. The goal of this project is to develop a kit to for a DIY 360 degree spherical camera. 
 
 Our key principals are as follows:
