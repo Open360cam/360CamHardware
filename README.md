@@ -1,6 +1,7 @@
 # The Open 360 Camera Hardware Repository 
 [![Gitter](https://badges.gitter.im/Open360cam/360CamHardware.svg)](https://gitter.im/Open360cam/360CamHardware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+Brought to you by [Photon Labs](http://photonlabs.tech)
 [On hackaday.io](https://hackaday.io/project/11604-360-camera)
 
 ***
